@@ -286,4 +286,3 @@ Legal or compliance contacts ensure regulatory and contractual obligations are c
 2. Incorporate the finalized personas into docs/octoacme-roles-and-personas.md (this change).
 3. Update related process docs to reference role-specific responsibilities where applicable (e.g., release guide, security runbook, QA section).
 4. Create a lightweight RACI or responsibility matrix for high-risk activities (releases, security approvals, production incidents).
-
